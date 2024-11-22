@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I'm a passionate **Electronics and Communication E
 ---
 
 ## 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 💼 [LinkedIn](linkedin.com/in/dhineshkumar-r-43baa8253)
 - 📸 [Instagram](https://www.instagram.com/dhinesh.psd)
 - 👮 [Facebook](https://www.facebook.com/your-profile)
 - 🌟 [Portfolio](https://your-portfolio-link.com) *(coming soon!)*
