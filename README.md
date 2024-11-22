@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Dhinesh (a.k.a Gethu Kulanthu) 🚀
+# Hi there! 👋 I'm Dhinesh 🚀
 
 Welcome to my GitHub profile! I'm a passionate **Electronics and Communication Engineering** student with a love for **full-stack development** and **creative editing**. I enjoy building things that combine innovation and design, from **animated websites** to **optimized digital systems**. 🌟
 
@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate **Electronics and Communication E
 
 ## 🌟 My Interests
 - 💻 Full-Stack Development
-- 🎬 Editing and Creative Media
+- 🎮 Editing and Creative Media
 - 🤝 Collaborating on meaningful projects
 - 🧠 Solving real-world challenges through tech
 
@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a passionate **Electronics and Communication E
 
 ---
 
-## 🛠️ Current Focus
+## 🚰 Current Focus
 - Building **responsive websites**.
 - Exploring **React.js** and **Node.js**.
 - Polishing **UI/UX design** techniques.
@@ -53,9 +53,11 @@ Welcome to my GitHub profile! I'm a passionate **Electronics and Communication E
 ## 🌐 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
 - 📸 [Instagram](https://www.instagram.com/dhinesh.psd)
+- 👮 [Facebook](https://www.facebook.com/your-profile)
 - 🌟 [Portfolio](https://your-portfolio-link.com) *(coming soon!)*
 
 ---
 
 ### ✌ Fun Fact
 **I believe a good mix of design and technology can tell powerful stories. Let's create magic together!** ✨
+
